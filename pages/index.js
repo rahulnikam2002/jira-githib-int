@@ -23,7 +23,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <h2>This is my Header</h2>
+        <h2 style={{fontSize: "20px", color: "pink"}}>This is my Header</h2>
       </div>
     </>
   );
