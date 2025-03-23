@@ -23,7 +23,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <h1>This is my Header</h1>
+        <h2>This is my Header</h2>
       </div>
     </>
   );
